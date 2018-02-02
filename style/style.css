@@ -1,0 +1,18 @@
+td, th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+.input-group {
+	margin: 20px 0px;
+}
+
+svg {
+	height: 140px;
+	width: 300px;
+}
+
+.google-map {
+	height: 200px;
+	width: 250px;
+}
